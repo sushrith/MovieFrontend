@@ -1,0 +1,10 @@
+#nav2{
+    display: flex;
+    flex: 1;
+    text-align: right; 
+    white-space: nowrap;
+    margin-left:600px
+}
+Navbar{
+    color: white;
+}

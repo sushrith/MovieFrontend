@@ -1,0 +1,15 @@
+.elements{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+#div1{
+    display: flex;
+}
+h3{
+    color: white;
+}
+h1{
+    color: white;
+}
